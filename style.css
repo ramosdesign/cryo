@@ -200,7 +200,7 @@ overflow: hidden;
 	font-weight:600;
 	padding:5px 0 8px 28px;
 	width:70px;
-	background:url("../images/sprites.png");
+	background:url("http://cryopraxis.com.br/wp-content/themes/cryopraxis/images/sprites.png");
 	background-position:-571px 5px;
 	background-repeat:no-repeat;
 	-moz-transition:width .3s cubic-bezier(1, 0, 1, 1);
@@ -236,7 +236,7 @@ overflow: hidden;
 	color:#0072bc;
 	padding:5px 0 8px 28px;
 	width:70px;
-	background:url("../images/sprites.png");
+	background:url("http://cryopraxis.com.br/wp-content/themes/cryopraxis/images/sprites.png");
 	background-position:-571px 5px;
 	background-repeat:no-repeat;
 	-moz-transition:width .3s cubic-bezier(1, 0, 1, 1);
@@ -308,7 +308,7 @@ overflow: hidden;
     width: 40%;
     height: 100%;
     cursor: pointer;
-    background: transparent url('.../images/seta_direita.png'); /* helps IE */
+    background: transparent url('http://cryopraxis.com.br/wp-content/themes/cryopraxis/images/seta_direita.png'); /* helps IE */
     z-index: 1003;
 }
 
@@ -422,7 +422,7 @@ overflow: hidden;
 }
 
 #btn-fechar {
-    background: url(../images/fechar.png) no-repeat 50% 50%;
+    background: url('http://cryopraxis.com.br/wp-content/themes/cryopraxis/images/fechar.png') no-repeat 50% 50%;
     width: 31px;
     height: 31px;
     margin: 15px 0 0 170px;
